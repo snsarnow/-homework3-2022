@@ -147,7 +147,7 @@ img{
 }
 
 .contact, .contact-image{
-  grid-row: 4/ span1;
+  grid-row: 4/ span 1;
 }
 
 
